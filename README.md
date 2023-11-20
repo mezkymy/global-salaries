@@ -1,2 +1,4 @@
 # global-salaries
-Global Salaries in AI, ML, Data Science (Kaggle)
+Global AI, ML, Data Science Salaries
+
+Data Source = [https://ai-jobs.net/salaries/](https://ai-jobs.net/salaries/download/)https://ai-jobs.net/salaries/download/
