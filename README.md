@@ -2,6 +2,8 @@
 Data Exploration on Global AI, ML, Data (including Analyst, Scientist, and Engineer) Salaries
 Data Source = [https://ai-jobs.net/salaries/](https://ai-jobs.net/salaries/download/)https://ai-jobs.net/salaries/download/
 
+To view the notebook better directly on a browser, use this NBViewer link: https://nbviewer.org/github/mezkymy/global-salaries/blob/main/global-salaries.ipynb
+
 ## Goal
 The goal of this project is to explore the dataset available on ai-jobs.net and find any interesting insights and gain understanding on variables that might influence salaries on the data world.
 
