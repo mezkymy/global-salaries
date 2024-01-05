@@ -1,4 +1,4 @@
-# Global Salaries
+# Global Salaries Data Exploration
 Data Exploration on Global AI, ML, Data (including Analyst, Scientist, and Engineer) Salaries
 
 Data Source = [https://ai-jobs.net/salaries/](https://ai-jobs.net/salaries/download/)https://ai-jobs.net/salaries/download/
