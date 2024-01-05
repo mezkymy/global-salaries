@@ -88,7 +88,7 @@ Data Scientist salaries across the board are increasing annually, except at 2021
 ### Results and Recommendations
 1. For job seekers looking for a bigger annual salary, try to look for medium or large sized companies (any company with more than 50 employees).
 2. Data Scientist salaries are growing similar to the inflation rate, which might indicate that the job market for this role is growing stagnant since the increase might be tied mostly to the inflation rate and not to the increase of demand.
-3. For entry-level data scientists though, the yearly salary increase is higher than the inflation rate, which indicates that the above situation might not be true for entry-level positions and that entry-level data scientists are on a relatively high demand.
+3. For entry-level Data Scientists though, the yearly salary increase is higher than the inflation rate, which indicates that the above situation might not be true for entry-level positions and that entry-level Data Scientists are on a relatively high demand.
 
 ### Others
 For complete analysis, open the notebook using github/jupyter/NBViewer (link to NBViewer provided at the [top](#global-salaries))
