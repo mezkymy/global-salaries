@@ -1,5 +1,6 @@
 # Global Salaries
 Data Exploration on Global AI, ML, Data (including Analyst, Scientist, and Engineer) Salaries
+
 Data Source = [https://ai-jobs.net/salaries/](https://ai-jobs.net/salaries/download/)https://ai-jobs.net/salaries/download/
 
 To view the notebook better directly on a browser, use this NBViewer link: https://nbviewer.org/github/mezkymy/global-salaries/blob/main/global-salaries.ipynb
@@ -76,7 +77,7 @@ While there are 57 different countries where the data are sourced from, only 5 c
 
 Tukey HSD shows that the difference between medium sized and large sized companies are very insignificant, with a p-value nearing 1. This shows that statistically speaking there is no significant difference in the salary of large sized and medium sized companies.
 
-One looking for a higher salary could try to get into either medium or large companies with no significant difference in either choice.
+One looking for a higher salary could try to get into either medium or large companies with no significant difference in either choice. Small-sized companies however, may give lower salaries which is around 50k lower on average compared to medium or large sized companies.
 
 ### Job Title to Annual Salary
 ![Average Salary of Data Scientists from 2020 to 2023](https://github.com/mezkymy/global-salaries/assets/79908491/6b0230a5-2e0e-4b94-9667-d471b5d4a8ee)
