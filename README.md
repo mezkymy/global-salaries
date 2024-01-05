@@ -85,5 +85,10 @@ One looking for a higher salary could try to get into either medium or large com
 
 Data Scientist salaries across the board are increasing annually, except at 2021 where it shows a decline from 142k to 114k. From 2020 to 2023, it shows a quite significant growth from 142k to 169k (+27k), which is around 20% increase over 3 years or around 6% annual increase. This increase is similar to the US total inflation from 2020-2023 which is around 19% compounded (source: [usinflationcalculator.com](https://www.usinflationcalculator.com/inflation/current-inflation-rates/))
 
+### Results and Recommendations
+1. For job seekers looking for a bigger annual salary, try to look for medium or large sized companies (any company with more than 50 employees).
+2. Data Scientist salaries are growing similar to the inflation rate, which might indicate that the job market for this role is growing stagnant since the increase might be tied mostly to the inflation rate and not to the increase of demand.
+3. For entry-level data scientists though, the yearly salary increase is higher than the inflation rate, which indicates that the above situation might not be true for entry-level positions and that entry-level data scientists are on a relatively high demand.
+
 ### Others
 For complete analysis, open the notebook using github/jupyter/NBViewer (link to NBViewer provided at the [top](#global-salaries))
